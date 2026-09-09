@@ -2,7 +2,79 @@
 
 ## Market Gaps
 
-Voice tools have improved a lot, but most of them still focus on getting words onto the screen. Wispr Flow, Superwhisper and TalkTastic make dictation cleaner and can use some context from the app. But there is still a gap between speaking and actually working with what is on the screen. There is also a problem with how much AI should change. Fixing punctuation or cleaning up a sentence is useful, but changing the meaning or formatting something without being asked can get annoying. Multilingual and mixed-language speech is another area that feels underdeveloped. People in India often switch between languages while speaking, but most tools still treat language as something you select rather than something that can happen naturally. Voice is also mostly used as an input method. There is less focus on things like explaining something aloud, changing a message between languages, or having a proper speech-to-speech conversation. Personalisation exists through things like dictionaries and styles, but most tools still don't feel like they really know how one particular person works.
+Voice products are no longer just basic dictation, but the market is still split between **voice-to-text, AI conversation and computer control**. The bigger gap is what happens between speaking and actually working with what is already on the screen.
+
+| Product | What it does well | Gap / opportunity for Kivi |
+|---|---|---|
+| **Wispr Flow** | Fast system-wide voice typing, natural speech, formatting and context across apps. | Still primarily optimises the path from speech to written output. Kivi can make the **screen itself the context**: select something, speak about it, preview the change and apply it. |
+| **Superwhisper** | Strong transcription, custom modes, many languages and local/offline options. | Powerful but increasingly feels like a configurable dictation system. Kivi can hide model/mode complexity and focus on **voice + screen + intent**. |
+| **TalkTastic** | Voice input and AI-assisted writing inside the typing workflow. | The interaction still starts with a text field. Kivi can start from **anything on the screen**, not only where the cursor is. |
+| **Microsoft Copilot** | Voice conversation, work/web grounding and deep Microsoft ecosystem integration. | More **assistant-first** than interaction-layer-first. Kivi can begin with the exact sentence, code, email or content the user is looking at. |
+| **Gemini Live** | Natural spoken conversation and back-and-forth interaction with AI. | Strong as an AI conversation, but not designed primarily as a **system-wide layer for transforming the user's current screen context**. |
+| **ChatGPT Voice** | Very natural voice conversation, explanations and brainstorming. | The user generally enters an AI conversation. Kivi's opportunity is to make voice work **inside the user's existing workflow**, without turning every interaction into a chat. |
+| **Windows Voice Typing / Voice Access** | Native dictation plus voice control, navigation and text editing across Windows. | Excellent computer control, but commands are still largely explicit. Kivi can interpret **natural intent** around the selected content instead of making users learn command syntax. |
+| **Gboard** | Fast voice typing, multilingual input and voice-based rewriting/proofreading features. | Strong keyboard-level input, but still centred on composing text. Kivi can extend the same idea into **understanding, transforming and communicating**, not just typing. |
+
+### The bigger gap
+
+**1. Voice tells the computer what you said. The screen tells it where. The missing layer is what you mean.**
+
+Most products optimise one of these relationships:
+
+- **Dictation:** voice → text
+- **AI assistants:** voice → conversation
+- **Computer control:** voice → command
+- **AI voice typing:** voice → cleaner text
+
+Kivi can connect them differently:
+
+**WHERE → the screen / selection**  
+**WHAT → the user's voice**  
+**MEANING → Kivi**  
+**RESULT → the app the user is already using**
+
+That creates interactions such as:
+
+- Select a paragraph → *"Explain this like I'm a first-year student."*
+- Select code → *"Add a check here so this doesn't crash on empty input."*
+- Select a message → *"Make this more respectful, but keep my meaning."*
+- Select an email → *"Turn this into a three-line Slack update."*
+- Speak in Tanglish → get a clean English note without manually switching languages.
+- Speak once → create different versions for Slack, email and WhatsApp.
+
+### 2. Multilingual speech is still treated too much like a setting
+
+Most voice products treat language as something the user selects. But real Indian speech is often mixed: **Tamil + English, Hindi + English, Kannada + English, Tanglish**, and more. Gboard supports multiple languages and automatic switching in supported configurations, showing that the direction is possible, but the larger product opportunity is to make multilingual understanding part of the interaction itself rather than a separate input mode. citeturn0search0turn0search14
+
+Kivi can make language a layer across every action: **Think, Write, Understand, Communicate and Remember**. The user should be able to speak naturally and let Kivi decide how the output needs to be expressed.
+
+### 3. Voice is still mostly an input method
+
+The market is getting better at **voice → text** and **voice → AI response**, but there is more room for **voice → useful output**. Kivi can return a structured note, edited text, translated message, spoken explanation, code change or reminder depending on the intent. This makes voice a general interface rather than another keyboard.
+
+### 4. Personalisation is mostly about output, not behaviour
+
+Dictionaries, custom vocabulary, styles and correction learning already make voice products better at recognising a user. The deeper opportunity is for Kivi to learn **how that person works**: their terminology, preferred tone, recurring shortcuts, languages, formatting preferences and common workflows. Memory should make future interactions feel more natural without silently changing the user's intent.
+
+### Where Kivi can own the whitespace
+
+**Kivi is not trying to beat every competitor at transcription, conversation or computer control.** Its wedge is the combination:
+
+**Voice + Screen Context + Intent + Multilingual Understanding + Personalisation**
+
+The simple product promise becomes:
+
+> **Don't explain the interface. Tell Kivi what you mean.**
+
+### Market snapshot
+
+| Category | Typical interaction | Kivi's difference |
+|---|---|---|
+| Traditional dictation | "Type what I say" | "Understand what I mean" |
+| AI voice typing | "Clean up what I said" | "Change what I selected in the way I asked" |
+| AI voice assistant | "Talk to the AI" | "Work with what is already in front of me" |
+| Computer voice control | "Press / open / click X" | "Express the intent naturally" |
+| **Kivi** | **Screen + voice + intent** | **The voice layer for computing** |
 
 ## User Personas - Mapped to Kivi's Proposed features 
 
