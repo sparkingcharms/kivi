@@ -4,7 +4,7 @@
 
 Voice tools have improved a lot, but most of them still focus on getting words onto the screen. Wispr Flow, Superwhisper and TalkTastic make dictation cleaner and can use some context from the app. But there is still a gap between speaking and actually working with what is on the screen. There is also a problem with how much AI should change. Fixing punctuation or cleaning up a sentence is useful, but changing the meaning or formatting something without being asked can get annoying. Multilingual and mixed-language speech is another area that feels underdeveloped. People in India often switch between languages while speaking, but most tools still treat language as something you select rather than something that can happen naturally. Voice is also mostly used as an input method. There is less focus on things like explaining something aloud, changing a message between languages, or having a proper speech-to-speech conversation. Personalisation exists through things like dictionaries and styles, but most tools still don't feel like they really know how one particular person works.
 
-## User Personas
+## User Personas - Mapped to Kivi's Proposed features 
 
 ### 1. Ananya, 21 - Student
 
