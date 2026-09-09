@@ -2,38 +2,38 @@
 
 ## Market Gaps
 
-The speech market has gotten much better at hearing people, but the experience still feels split. Basic dictation is fast and familiar, while products such as Wispr Flow, Superwhisper and TalkTastic make spoken input cleaner, more contextual and more personal. What is still missing is a simple way for voice to become part of the whole way we use a computer, rather than just a better way to fill a text field. There is also a clear tension between AI being helpful and AI changing too much. Users like tools that fix punctuation, structure messy thoughts and understand context, but they get frustrated when the software guesses wrong, rewrites something they did not ask to change, adds formatting they did not want, or makes them repeat themselves. Multilingual and code-mixed speech is another gap: people naturally move between languages, but many products still make language feel like a setting instead of something that can change naturally during an interaction. Voice output is also less developed than voice input. Most products are strong at speech-to-text, but there is much more room for useful spoken explanations, translated voice messages and natural speech-to-speech communication. Personalization is starting to appear through styles, dictionaries and custom modes, but there is still room for products to feel genuinely shaped by an individual user's vocabulary, habits and way of working. Overall, the gap is less about making speech recognition slightly better and more about making voice feel like a natural, reliable and personal way of interacting with digital work.
+Voice tools have improved a lot, but most of them still focus on getting words onto the screen. Wispr Flow, Superwhisper and TalkTastic make dictation cleaner and can use some context from the app. But there is still a gap between speaking and actually working with what is on the screen. There is also a problem with how much AI should change. Fixing punctuation or cleaning up a sentence is useful, but changing the meaning or formatting something without being asked can get annoying. Multilingual and mixed-language speech is another area that feels underdeveloped. People in India often switch between languages while speaking, but most tools still treat language as something you select rather than something that can happen naturally. Voice is also mostly used as an input method. There is less focus on things like explaining something aloud, changing a message between languages, or having a proper speech-to-speech conversation. Personalisation exists through things like dictionaries and styles, but most tools still don't feel like they really know how one particular person works.
 
 ## User Personas
 
-### 1. Ananya, 21 — Student
+### 1. Ananya, 21 - Student
 
-Ananya is usually doing three things at once: reading a paper, replying to messages and trying to finish an assignment. She thinks in a mix of Tamil and English, especially when she is in a hurry, but most of her college work has to come out in clear English. When a paper gets confusing, she usually copies a paragraph into an AI tool and asks for an explanation. Writing to professors is another small pain point because she knows what she wants to say, but spends time making it sound formal enough.
+Ananya is usually reading a paper while replying to messages and working on an assignment. She often speaks in a mix of Tamil and English, but her college work usually needs to be in English. When she doesn't understand a paper, she copies parts of it into an AI tool. She also spends a lot of time rewriting messages to professors because she knows what she wants to say but isn't sure how formal it should sound.
 
-**How Kivi fits:** She selects a difficult section and asks Kivi to explain it simply, or asks it to translate and read the explanation aloud. She can then speak through her messy thoughts and turn them into structured notes. For messages, she can speak naturally in Tanglish and ask Kivi to make it appropriate for a professor. Over time, Kivi learns the names, terminology and style she tends to use.
+**How Kivi fits:** She can select a difficult part of a paper and ask Kivi to explain it. She can speak her thoughts in Tanglish and turn them into notes, or ask Kivi to make a message suitable for a professor. She can also listen to explanations instead of stopping to read everything. Over time, Kivi can learn the names and terms she uses often.
 
 **Main Kivi use cases:** Understand, Think, Communicate, multilingual speech, TTS, Green Selection, Styles and Memory.
 
 ---
 
-### 2. Arjun, 26 — Software Developer
+### 2. Arjun, 26 - Software Developer
 
-Arjun spends most of his day in Cursor, GitHub, Slack and documentation. He is comfortable with code, but does not like stopping to write a long prompt for a change that would take five seconds to explain aloud. He also gets tired of moving between code, documentation and AI tools just to understand one function or make a small edit.
+Arjun spends most of his day in Cursor, GitHub, Slack and documentation. He is fine with writing code, but doesn't want to type a long prompt every time he needs a small change. He also doesn't like having to leave his editor just to understand a piece of code or check some documentation.
 
-**How Kivi fits:** He selects a few lines of code and says, “Add a check here for empty input, but don't change anything else.” Kivi proposes the change as a diff and waits for him to apply it. When he finds an unfamiliar function, he can ask Kivi to explain it in place and listen to the explanation while reading. He can also create shortcuts such as “clean this up” or build a coding mode around the way he likes code changes explained.
+**How Kivi fits:** He can select a few lines of code and say what he wants changed. Kivi can show the proposed change and let him apply it. If he finds a function he doesn't understand, he can ask for an explanation without leaving the editor. He can also set up shortcuts for things he does often and create a mode for the way he likes to work.
 
 **Main Kivi use cases:** Write, Understand, Kivi Anywhere, Green Selection, coding, Shortcuts, Modes and learning from corrections.
 
 ---
 
-### 3. Rohan, 29 — Communication-heavy Professional
+### 3. Rohan, 29 - Communication-heavy Professional
 
-Rohan's problem is rarely figuring out what he wants to say. His day is full of saying the same thing to different people in different ways. A project delay might need to become a short Slack message, a careful email to a client and a casual WhatsApp message. He also works with people who are more comfortable in different Indian languages.
+Rohan usually knows what he wants to say. The annoying part is saying the same thing differently to different people. A project delay might become a short Slack message, a proper email to a client and a casual WhatsApp message. He also works with people who are more comfortable speaking different Indian languages.
 
-**How Kivi fits:** Rohan speaks one thought once and lets Kivi shape it for different audiences and channels. He can record a voice message in Tamil and send it as spoken Hindi, or use live speech-to-speech translation during a conversation without changing the app he is using. He can also create a personal shortcut such as “client-ready” that captures how he normally communicates with clients.
+**How Kivi fits:** Rohan can say the thought once and ask Kivi to adapt it for different people and apps. He could speak a voice message in Tamil and have it come out in Hindi, or use speech-to-speech translation during a conversation. He can also make shortcuts for things he does regularly, such as preparing something in his usual client tone.
 
 **Main Kivi use cases:** Communicate, Kivi Mic, multilingual STS, voice messages, Styles, Shortcuts and personalization.
 
 ## What These Personas Show
 
-These three people come to Kivi for different reasons. Ananya wants help understanding and expressing what she already knows. Arjun wants to keep his flow while creating and changing things. Rohan wants to communicate naturally across people, channels and languages. The common thread is not “they want voice typing.” They want to say what they mean without having to reshape themselves around the software.
+The three personas use Kivi differently. Ananya needs help understanding and writing. Arjun wants to make changes without breaking his coding flow. Rohan wants to communicate the same idea in different ways. What connects them is that they already know what they want to do. They just don't want typing and app interfaces to get in the way.
