@@ -14,8 +14,6 @@ Ananya is usually reading a paper while replying to messages and working on an a
 
 **Main Kivi use cases:** Understand, Think, Communicate, multilingual speech, TTS, Green Selection, Styles and Memory.
 
----
-
 ### 2. Arjun, 26 - Software Developer
 
 Arjun spends most of his day in Cursor, GitHub, Slack and documentation. He is fine with writing code, but doesn't want to type a long prompt every time he needs a small change. He also doesn't like having to leave his editor just to understand a piece of code or check some documentation.
@@ -23,8 +21,6 @@ Arjun spends most of his day in Cursor, GitHub, Slack and documentation. He is f
 **How Kivi fits:** He can select a few lines of code and say what he wants changed. Kivi can show the proposed change and let him apply it. If he finds a function he doesn't understand, he can ask for an explanation without leaving the editor. He can also set up shortcuts for things he does often and create a mode for the way he likes to work.
 
 **Main Kivi use cases:** Write, Understand, Kivi Anywhere, Green Selection, coding, Shortcuts, Modes and learning from corrections.
-
----
 
 ### 3. Rohan, 29 - Communication-heavy Professional
 
